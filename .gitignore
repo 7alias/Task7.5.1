@@ -1,2 +1,4 @@
 # Project exclude paths
+/.idea/
 /out/
+Task7.5.1.iml
